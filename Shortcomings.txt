@@ -1,0 +1,3 @@
+day1: Maximum Subarray - case failed, didn't think of only negative numbers in solutions
+How did it solve : Kept the max value as Integer.MIN_VALUE at start.
+
